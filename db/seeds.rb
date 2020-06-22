@@ -1,5 +1,6 @@
 Author.create!(
-  name: "Ada Lovelace", email: "ada@the-history-of-programming.com"
+  name: "Ada Lovelace",
+  email: "ada@the-history-of-programming.com"
 )
 
 Post.create!(
